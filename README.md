@@ -2,6 +2,7 @@
 ![Alt Text](Intro_Picture.png)
 
 # Introduction
+This project was doen for the Text Analytics coursework under the guidance of [Prof. Anitesh Barua](https://www.mccombs.utexas.edu/Directory/Profiles/Barua-Anitesh)<br />
 The aim of this project was to combine our text analytics and modeling skills to develop a product that could:
 
 1) Predict if a song would become a hit based on its lyrics and musical features<br />
